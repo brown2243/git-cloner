@@ -1,6 +1,8 @@
 # git-cloner
 
 - git organization의 모든 레포지토리를 자동으로 클론하는 프로그램입니다.
+- shell script
+- node
 
 1. clone.sh에 basicPath를 원하는 경로로 잡아 줍니다.
 2. clone.sh를 실행합니다.
