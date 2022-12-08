@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 basicPath="/Users/brown/dev"
 
 echo "Only Organizition repos!!!"
