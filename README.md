@@ -4,7 +4,7 @@
 - shell script
 - node
 
-1. clone.sh에 basicPath를 원하는 경로로 잡아 줍니다.
+1. **clone.sh에 basicPath를 원하는 경로로 잡아 줍니다.**
 2. clone.sh를 실행합니다.
 3. 원하는 주소를 입력합니다.
    ex) `https://github.com/d3`, `https://github.com/gmx-io`...
